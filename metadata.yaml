@@ -1,0 +1,35 @@
+_repo: The-Fundamental-Principles-of-Old-and-New-World-Civilizations--13-A-Comparative-Research-Base__32066
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nuttall, Zelia
+    birthdate: 1858
+    deathdate: 1933
+    gutenberg_agent_id: '35649'
+    url: http://www.gutenberg.org/2009/agents/35649
+description: ''
+gutenberg_issued: '2010-04-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32066'
+  lccn: 01011138
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mythology'
+- !lcsh 'Swastikas'
+- !lcsh 'Civilization -- History'
+- !lcsh 'Calendar -- Mexico'
+- !lcc 'E011'
+- !lcsh 'Calendar'
+- !lcc 'F1201'
+- !lcsh 'Mayas -- Antiquities'
+title: "The Fundamental Principles of Old and New World Civilizations\r\nA Comparative\
+  \ Research Based on a Study of the Ancient Mexican Religious, Sociological, and\
+  \ Calendrical Systems"
+url: http://www.gutenberg.org/ebooks/32066
