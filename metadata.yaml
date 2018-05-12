@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '35649'
     url: http://www.gutenberg.org/2009/agents/35649
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32066#The-Fundamental-Principles-of-Old-and-New-World-Civilizations--13-A-Comparative-Research-Base_
 gutenberg_issued: '2010-04-20'
 gutenberg_type: Text
 identifiers:
